@@ -1,2 +1,2 @@
 # OpenSource-UW
-Hello, I am Choi!
+This is source codes for the webpages of the club, "OpenSource-UW".
