@@ -27,3 +27,12 @@ def supporter():
 def team():
     return render_template('team.html', title='Team')
 
+
+@app.route('/contact')
+def contact():
+    return render_template('contact.html', title='Contacts')
+
+
+@app.route('/project')
+def project():
+    return render_template('project.html', title='Project')
