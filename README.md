@@ -15,3 +15,4 @@ If you want to contact us, please email to us (openuw@uw.edu).
 ```python
     FLASK_APP=opensource.py flask run
 ```
+4. Now go to http://127.0.0.1:5000/ where the webpage is now up and running!
